@@ -1,0 +1,7 @@
+.search input {
+    outline: 0;
+    border: 0;
+    font-size: 1em;
+    padding: .5em;
+    width: 20em;
+}
