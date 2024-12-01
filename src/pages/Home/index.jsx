@@ -8,6 +8,8 @@ import Header from "../../components/Header";
 import Carousel from "../../components/Carousel";
 import ScrollToTopButton from "../../components/ScrollToTopButton";
 
+
+// página principal
 function Home() {
 
   return (
